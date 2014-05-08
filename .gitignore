@@ -5,3 +5,4 @@ build
 MANIFEST
 html_docs.zip
 docs/_*
+examples/cec05examples/fortran_SO.so

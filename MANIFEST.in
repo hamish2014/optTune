@@ -1,3 +1,4 @@
-include LICENSE
+include LICENSE README.md
 recursive-include docs *.html *.css *.png *.gif *.js *.txt
 recursive-include examples *.py
+prune examples/cec05examples

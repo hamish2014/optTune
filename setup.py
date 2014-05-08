@@ -28,7 +28,8 @@ setup(name='optTune',
         ],
       install_requires=[
           'numpy',
-          'scipy'
+          'scipy',
+          'matplotlib'
       ],
 
 )
