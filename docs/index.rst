@@ -38,7 +38,7 @@ If you have used any of the optTune codes in your work, please reference as foll
 * for FBM/FBA - Branke, J. and Elomari, J. (2012). *Meta-optimization for parameter tuning with a flexible computing budget*. In Proceedings of the 14th International Conference on Genetic and Evolutionary Computation Conference, pages 1245-1252. ACM. 
 * MOTA - still in the process of being published ...
 
-Detailed Motivation
+Motivation
 --------------------
 
 Numerical optimization forms a pivotal part of many design processes.
